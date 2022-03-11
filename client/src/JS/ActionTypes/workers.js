@@ -1,0 +1,7 @@
+export const REGISTER_WORKER = "REGISTER_WORKER";
+export const LOGIN_WORKER = "LOGIN_WORKER";
+export const LOAD_WORKER = "LOAD_WORKER";
+export const FAIL_WORKER = "FAIL_WORKER";
+export const CURRENT_WORKER = "CURRENT_WORKER";
+export const LOGOUT_WORKER = "LOGOUT_WORKER";
+export const CLEAR_ERRORS="CLEAR_ERRORS"

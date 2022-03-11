@@ -1,0 +1,10 @@
+
+
+.wokerList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #c8c8c8;
+    margin: 0%;
+    
+}

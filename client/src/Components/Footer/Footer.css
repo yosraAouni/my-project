@@ -1,0 +1,11 @@
+.f{
+    font-weight: bold;
+    flex-wrap: wrap;
+    background-color:#fff ;
+}
+.f a  {
+    color:rgba(0, 77, 77, .9); 
+}
+.f p {
+    color: rgba(0, 77, 77, .9);
+}

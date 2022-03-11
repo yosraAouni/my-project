@@ -1,0 +1,34 @@
+.header-nav nav {
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    background-color: rgb(246, 248, 248);
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul {
+    display: flex;
+
+}
+
+li {
+    list-style: none;
+    margin: 1rem;
+}
+
+.header-nav a {
+    text-decoration: none;
+    color: rgba(0, 77, 77, .9);
+    font-weight: bold;
+}
+
+.logo {
+    padding: 1rem;
+}
+.butt{
+    margin-top: 4%;
+    
+    margin-left:15%;
+   
+}
